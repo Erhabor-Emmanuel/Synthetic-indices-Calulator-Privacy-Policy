@@ -7,7 +7,7 @@ title: Privacy Policy
 ## Privacy Policy
 
 **Effective Date:** \September 30, 2025
-**App Name:** \Deriv Calculator
+**App Name:** \RiskCal
 **Developer Contact:** \txinnovates@gmail.com
 
 Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
