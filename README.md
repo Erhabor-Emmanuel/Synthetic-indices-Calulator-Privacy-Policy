@@ -14,12 +14,7 @@ Your privacy is important to us. This Privacy Policy explains how we collect, us
 
 ---
 
-### 1. Information We Collect
-
-We may collect the following types of information:
-
-* **Usage Data**: We may collect anonymous data about app usage to improve performance and user experience.
-* **Device Information**: Basic information such as device model, operating system, and language settings may be collected to help us optimize the app.
+### 1. Information
 
 We **do not collect** personally identifiable information such as your name, email, address, or phone number unless explicitly provided by you.
 
